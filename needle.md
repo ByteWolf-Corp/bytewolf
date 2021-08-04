@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <script src="https://fkurz.net/ham/jscwlib/src/jscwlib.js"></script>
 
 <div id="player"></div>    
