@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-[](https://github.com/ByteWolf-Corp/bytewolf/blob/gh-pages/construction.png)
+[Construction](https://github.com/ByteWolf-Corp/bytewolf/blob/gh-pages/construction.png)
 
 
 <div class="hiddentext" style="visibility:hidden">
