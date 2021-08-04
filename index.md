@@ -1,9 +1,8 @@
 ## Welcome to GitHub Pages
 
-<a href="https://bytewolf-corp.github.io/bytewolf/needle">
-  src="https://github.com/ByteWolf-Corp/bytewolf/blob/gh-pages/construction.png"
-  width=150" height="70">
-</a>
+
+[](https://github.com/ByteWolf-Corp/bytewolf/blob/gh-pages/construction.png)
+
 
 <div class="hiddentext" style="visibility:hidden">
 4oCcV2hhdCBpZiBjaGFuZ2luZyB0aGUgd29ybGQgd2FzIGp1c3QgYWJvdXQgYmVpbmcgaGVyZSwg
