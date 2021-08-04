@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 <a href="https://bytewolf-corp.github.io/bytewolf/needle">
-  <img alt="click" src="https://github.com/ByteWolf-Corp/bytewolf/blob/gh-pages/construction.png"
+  src="https://github.com/ByteWolf-Corp/bytewolf/blob/gh-pages/construction.png"
   width=150" height="70">
 </a>
 
