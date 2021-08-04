@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+## Welcome to ByteWolf
 
 [Construction](https://github.com/ByteWolf-Corp/bytewolf/blob/gh-pages/construction.png)
 
